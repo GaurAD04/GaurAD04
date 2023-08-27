@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GaurAD04
-- 👀 I’m interested in computational physics and artificial intelligence
+- 👀 I’m interested in quantum computing and artificial intelligence
 - 🌱 I’m currently learning reactjs,nodejs,matlab
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
